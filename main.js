@@ -14,7 +14,7 @@ function calcular() {
         <ul>
         <li>Carne: ${carne / 1000} Kg </li>
         <li>Frango: ${frango / 1000} Kg </li>
-        <li>Linguica: ${linguica / 1000} Kg </li>
+        <li>Linguiça: ${linguica / 1000} Kg </li>
         <li>Refrigerante: ${refrigerante / 1000} Litros </li>
         <li>Cerveja: ${cerveja / 1000} Litros </li>
         </ul>
